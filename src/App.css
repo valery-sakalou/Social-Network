@@ -9,6 +9,11 @@
   grid-template-columns: 2fr 10fr;
 }
 
+.app-wrapper-content {
+    grid-area: c;
+    color: rgb(255, 130, 47);
+    background-color: blue;
+}
 
 
  /* .header img {
